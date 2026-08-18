@@ -205,7 +205,6 @@ body {
 .stars {
     background: #000005 url('img/space-bg.jpg') no-repeat center center;
     background-size: cover;
-    background-attachment: fixed;
     z-index: -3;
 }
 
